@@ -8,9 +8,9 @@ In this model, processing is performed directly on the user's workstation, lever
 
 The use of the SH.erlock agent enables:
 
-Faster diagnosis of incidents in the Self-Healing system
-Support for technical analysis based on historical data and documentation
-Reduced reliance on tacit knowledge
-Standardized interpretation of logs and events
+- Faster diagnosis of incidents in the Self-Healing system
+- Support for technical analysis based on historical data and documentation
+- Reduced reliance on tacit knowledge
+- Standardized interpretation of logs and events
 
 The solution also benefits from a continuous improvement cycle based on the evolution of documentation in Confluence. As new content, case studies, and procedures are recorded, these materials simultaneously serve as training resources for new employees and as a knowledge source for the AI system through the ingestion (RAG) process. In this way, organizational knowledge is continuously consolidated and reused, promoting technical alignment, reducing reliance on tacit knowledge, and progressively improving the quality of the analyses performed by the agent.
