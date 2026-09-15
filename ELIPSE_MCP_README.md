@@ -1,5 +1,7 @@
 # MCP Elipse Server - v0.12
 
+(pending translation...)
+
 Prototipo de MCP Server em Python usando transporte HTTP para consultar uma aplicacao Elipse Power aberta no Studio.
 
 ## Escopo
